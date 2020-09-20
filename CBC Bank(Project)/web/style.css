@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17-Jul-2020, 3:37:25 PM
+    Author     : batra
+*/
+
+body{
+    font-family: 'Hind', sans-serif;
+/*    background-image: url(back1.jpg);*/
+    background: #0A0A0A;
+    color: #cccccc;
+}
+
+h1{
+    font-size: 50px;
+    margin-left: 550px;
+}
+
+i{
+    color: #cccccc;
+    font-size: 5rem;
+    margin-left: 220px;
+}
+
+form input[type="email"]{
+    background: #cccccc;
+    color: #000000;
+    margin-left: 100px;
+    width: 330px;
+    height:45px;
+    margin-bottom: 30px;
+}
+
+
+.forgot{
+    color: #cccccc;
+    margin-left: 100px;
+}
+
+form input[type="submit"]{
+    width: 220px;
+    height: 40px;
+    margin-left: 150px;
+    background:  #666666;
+    color: #ffffff;
+    margin-top: 25px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.admin{
+    
+}
+
+::placeholder{
+    font-size: 24px;
+}
